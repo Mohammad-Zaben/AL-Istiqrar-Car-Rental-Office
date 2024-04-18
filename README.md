@@ -16,8 +16,8 @@ User Interface:
 Database: 
 - MySQl
 
-<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/8314c9fe-4bee-4762-a17c-ebcc91344807" alt="" width=800 >
-<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/ef4f06d1-fa8f-4325-babe-815895f6246d" alt="" width=800 >
-<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/99ab5047-5168-4a8b-838c-85ce1bd55367" alt="" width=800 >
-<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/375729cb-efe5-45ca-915a-8ec5e34cf799" alt="" width=800 >
+<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/f8c7e8d2-fa4e-48c2-8a98-3bae874cd328" alt="" width=800 >
+<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/d7c71ec7-652b-4dd1-9af9-c252be5d3356" alt="" width=800 >
+<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/a720bc03-4a82-495b-b194-81eb55421e7e" alt="" width=800 >
+<img src="https://github.com/Mohammad-Zaben/AL-Istiqrar-Car-Rental-Office/assets/141401082/8702f373-79c7-46d0-baec-aeb709100a24" alt="" width=800 >
 
